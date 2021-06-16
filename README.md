@@ -1,4 +1,4 @@
-# dng_stacker
+# dngmerge
 dngmerge is a macOS script for combining multiple individual DNG raw images into a single multiple exposure raw still. This allows cameras that cannot do multiple exposures in-camera, such as newer Sony Alpha bodies, to create authentic multiple exposure photographs without resorting to Photoshop.
 
 This script is mostly based on [DNG Stacker](https://github.com/antonwolf/dng_stacker) by Anton Wolf.

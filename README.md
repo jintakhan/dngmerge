@@ -4,7 +4,7 @@ dngmerge is a macOS script for combining multiple individual DNG raw images into
 This script is mostly based on [DNG Stacker](https://github.com/antonwolf/dng_stacker) by Anton Wolf.
 
 ## Dependencies
-* __Adobe DNG SDK__: Bundled. Latest version is also available for download from [Adobe](https://helpx.adobe.com/photoshop/digital-negative.html).
+* __Adobe DNG SDK__: Only the bundled dng_validate tool is required. Latest version is also available for download from [Adobe](https://helpx.adobe.com/photoshop/digital-negative.html).
 * __[ImageMagick](https://github.com/ImageMagick/ImageMagick)__: Available from [Homebrew](https://brew.sh). 
 * __[ExifTool](https://exiftool.org)__: Available from [Homebrew](https://brew.sh). Standalone binaries also available from the project homepage.
 * __[Adobe Digital Negative Converter](https://helpx.adobe.com/photoshop/using/adobe-dng-converter.html)__: Only needed if your raw processor does not support DNG conversions.
